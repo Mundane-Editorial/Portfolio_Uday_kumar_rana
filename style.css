@@ -794,7 +794,7 @@ span{
     }
 }
 
-@media(max-width:425px){
+@media(max-width:449px){
     #menu-icon{
         display: block;
     }
@@ -840,8 +840,8 @@ span{
         width: 85vw;
     }
     .services h2{
-        margin-bottom: 1.5rem;
-        font-size: 1.4rem;
+        margin-bottom: 1.9rem;
+        font-size: 7.5rem;
     }
     .services-container{
         grid-template-columns: 1fr;
